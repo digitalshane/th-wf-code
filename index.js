@@ -141,5 +141,3 @@ document.addEventListener("DOMContentLoaded", function() {
     window.history.replaceState({}, '', updatedUrl);
   }
 });
-
-console.log(th-wf-code);
