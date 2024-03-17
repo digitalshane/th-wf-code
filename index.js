@@ -141,3 +141,5 @@ document.addEventListener("DOMContentLoaded", function() {
     window.history.replaceState({}, '', updatedUrl);
   }
 });
+
+console.log(hello)
